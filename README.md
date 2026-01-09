@@ -1,5 +1,5 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=arch,windows"/><br>
-  <img src="https://skillicons.dev/icons?i=cloudflare,git,github,githubactions,idea,gradle,vscode"/><br>
-  <img src="https://skillicons.dev/icons?i=bash,c,cpp,java,vue,react,css,html,js,ts,latex,md,py,qt,regex,rust"/>
+  <img src="https://skillicons.dev/icons?i=cloudflare,vite,vue,react,git,githubactions,gradle,pnpm,idea,vscode"/><br>
+  <img src="https://skillicons.dev/icons?i=bash,cpp,java,py,rust,css,html,js,ts,latex,md,qt,regex"/>
 </p>
